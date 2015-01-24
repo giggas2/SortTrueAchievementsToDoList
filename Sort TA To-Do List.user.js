@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Sort TA To-Do List
+// @name           Sort TrueAchievements To-Do List
 // @namespace      https://github.com/giggas2/SortTrueAchievementsToDoList
 // @include        http://www.trueachievements.com/todolist.aspx
 // ==/UserScript==
